@@ -1,3 +1,7 @@
 = First post!
 
 I'm just trying out hubpress. Pretty cool!
+
+I'd like to see what happens when I have more than one line or even a figure.
+
+image::http://tkralphs.github.io/images/SolverStudioPic1.PNG[]
