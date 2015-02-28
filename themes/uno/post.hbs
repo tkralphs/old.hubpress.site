@@ -20,16 +20,19 @@
     </section>
 
   </article>
-  <!-- Twitter -->
-    <a href="https://twitter.com/share?text={{encode title}}&amp;url={{url absolute="true"}}">
+  <h4>Share this post</h4>
+    <!-- Twitter -->
+    <a href="https://twitter.com/share?text={{encode title}}&amp;url={{url absolute="true"}}" 
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
       <i class='icon icon-social-twitter'></i>
-      <span class="label">Twitter</span>
+      <span class="hidden">Twitter</span>  
     </a>
 
-  <!-- Google Plus -->
-    <a href="https://plus.google.com/share?url={{url absolute="true"}}">
+    <!-- Google Plus -->
+    <a href="https://plus.google.com/share?url={{url absolute="true"}}"
+      onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
       <i class='icon icon-social-google-plus'></i>
-      <span class="label">Google-plus</span>
+      <span class="hidden">Google+</span>  
     </a>
 
   {{> comments}}
