@@ -20,11 +20,26 @@
     </section>
 
   </article>
-  <a href="http://twitter.com/TedRalphs" title="Twitter account">
-    <i class='icon icon-social-twitter'></i>
-    <span class="label">Twitter</span>
-  </a>
-
+  <nav class="cover-navigation navigation--social">
+    <ul class="navigation">
+      <!-- Twitter -->
+      <li class="navigation__item">
+        <a href="https://twitter.com/share?text={{encode title}}&amp;url={{url absolute="true"}}">
+          <i class='icon icon-social-twitter'></i>
+          <span class="label">Twitter</span>
+        </a>
+      </li>
+  
+      <!-- Google Plus -->
+      <li class="navigation__item">
+        <a href="https://plus.google.com/share?url={{url absolute="true"}}">
+          <i class='icon icon-social-google-plus'></i>
+          <span class="label">Google-plus</span>
+        </a>
+      </li>
+    </ul
+  </nav>
+  
   {{> comments}}
 
 {{/post}}
