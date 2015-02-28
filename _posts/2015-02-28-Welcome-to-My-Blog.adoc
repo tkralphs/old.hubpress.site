@@ -10,4 +10,4 @@ This past October, I was invited to address the South African OerationsResearch 
 
 I began by opening up shop on https://github.com/tkralphs[github] and starting to post little bits and pieces of code I thought others would find useful. I will be writing about some of these here. I soon discovered https://pages.github.com/[Github pages] and then, a few weeks ago, https://github.com/HubPress/hubpress.io[Hub Press], a static generator for blogs that uses https://github.com[Github] as a publishing platform. I played around with it a bit and was hooked. I will write about my experience with https://github.com/HubPress/hubpress.io[Hub Press] and https://pages.github.com/[Github pages] in a future post.
 
-That's my story. I hope you enjoy my ramblings. I know I will.
+That's my story. I hope you enjoy my ramblings. I know I will!
