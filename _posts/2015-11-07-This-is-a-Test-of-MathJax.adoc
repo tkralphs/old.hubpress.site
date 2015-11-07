@@ -17,3 +17,5 @@ Test
 ====
 
 latexmath:[\beta] 
+
+icon:tags[]
