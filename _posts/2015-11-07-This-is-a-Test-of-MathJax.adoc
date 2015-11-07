@@ -3,14 +3,11 @@
 Ted Ralphs <ted@lehigh.edu>
 
 .Test
-[NOTE]
-====
 [source,python]
 ----
 import asdasd # <1>
 i = 0
 ----
 <1> Test
-====
 
 latexmath:[\beta] 
