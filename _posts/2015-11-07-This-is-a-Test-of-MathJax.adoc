@@ -1,5 +1,5 @@
 = This is a Test of MathJax
-:source-highlighter: prettify
+:source-highlighter: coderays
 :stem: latexmath
 Ted Ralphs <ted@lehigh.edu>
 
